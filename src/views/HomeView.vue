@@ -2,7 +2,5 @@
 </script>
 
 <template>
-  <main>
-    123
-  </main>
+  <el-button type="primary">123</el-button>
 </template>
